@@ -5,3 +5,5 @@ Tioluwalase
 Tioluwanimi
 Olaoluwa
 Aralolaoluwa
+Eniifeoluwa
+Omoolorun
